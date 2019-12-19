@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="35580" started-at="2019-12-18T11:24:03Z" finished-at="2019-12-18T11:24:39Z">
+  <suite name="Default suite" duration-ms="34853" started-at="2019-12-19T11:31:56Z" finished-at="2019-12-19T11:32:31Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="35580" started-at="2019-12-18T11:24:03Z" finished-at="2019-12-18T11:24:39Z">
+    <test name="Default test" duration-ms="34853" started-at="2019-12-19T11:31:56Z" finished-at="2019-12-19T11:32:31Z">
       <class name="Parabank.qa.testcases.ParabankLoginPageTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:Parabank.qa.testcases.ParabankLoginPageTest@2d6e8792]" name="setup" is-config="true" duration-ms="18489" started-at="2019-12-18T16:54:03Z" finished-at="2019-12-18T16:54:22Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Parabank.qa.testcases.ParabankLoginPageTest@2d6e8792]" name="setup" is-config="true" duration-ms="17028" started-at="2019-12-19T17:01:56Z" finished-at="2019-12-19T17:02:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:Parabank.qa.testcases.ParabankLoginPageTest@2d6e8792]" name="loginPageTitleTest" duration-ms="30" started-at="2019-12-18T16:54:22Z" finished-at="2019-12-18T16:54:22Z">
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:Parabank.qa.testcases.ParabankLoginPageTest@2d6e8792]" name="loginPageTitleTest" duration-ms="23" started-at="2019-12-19T17:02:13Z" finished-at="2019-12-19T17:02:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Parabank.qa.testcases.ParabankLoginPageTest@2d6e8792]" name="tearDown" is-config="true" duration-ms="710" started-at="2019-12-18T16:54:22Z" finished-at="2019-12-18T16:54:23Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Parabank.qa.testcases.ParabankLoginPageTest@2d6e8792]" name="tearDown" is-config="true" duration-ms="720" started-at="2019-12-19T17:02:13Z" finished-at="2019-12-19T17:02:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:Parabank.qa.testcases.ParabankLoginPageTest@2d6e8792]" name="setup" is-config="true" duration-ms="14373" started-at="2019-12-18T16:54:23Z" finished-at="2019-12-18T16:54:37Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Parabank.qa.testcases.ParabankLoginPageTest@2d6e8792]" name="setup" is-config="true" duration-ms="13984" started-at="2019-12-19T17:02:14Z" finished-at="2019-12-19T17:02:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="LoginTest()[pri:2, instance:Parabank.qa.testcases.ParabankLoginPageTest@2d6e8792]" name="LoginTest" duration-ms="1190" started-at="2019-12-18T16:54:37Z" finished-at="2019-12-18T16:54:38Z">
+        <test-method status="PASS" signature="LoginTest()[pri:2, instance:Parabank.qa.testcases.ParabankLoginPageTest@2d6e8792]" name="LoginTest" duration-ms="2132" started-at="2019-12-19T17:02:28Z" finished-at="2019-12-19T17:02:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Parabank.qa.testcases.ParabankLoginPageTest@2d6e8792]" name="tearDown" is-config="true" duration-ms="747" started-at="2019-12-18T16:54:38Z" finished-at="2019-12-18T16:54:39Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Parabank.qa.testcases.ParabankLoginPageTest@2d6e8792]" name="tearDown" is-config="true" duration-ms="928" started-at="2019-12-19T17:02:30Z" finished-at="2019-12-19T17:02:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

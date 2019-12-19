@@ -20,7 +20,7 @@ public class TestBase {
 	{
 		try {
 			prop = new Properties();
-			FileInputStream ip = new FileInputStream("C:/Users/AditiDeshmukh/workspace/ParabankAutomation/src/main/java/Parabank/qa/config/config.properties");
+			FileInputStream ip = new FileInputStream("C:/Users/AditiDeshmukh/git/Parabank Automation/ParabankAutomation/src/main/java/Parabank/qa/config/config.properties");
 			prop.load(ip);
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();

@@ -6,7 +6,7 @@
       <class name="Parabank.qa.testcases.ParabankLoginPageTest">
         <methods>
           <include name="setup"/>
-          <include name="tearDown"/>
+          <include name="LoginTest"/>
           <include name="loginPageTitleTest"/>
         </methods>
       </class> <!-- Parabank.qa.testcases.ParabankLoginPageTest -->
